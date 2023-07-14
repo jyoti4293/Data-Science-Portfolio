@@ -1,6 +1,7 @@
 # Data-Science-Portfolio
 
 ### Election Result Prediction Project
+[Source Code](https://github.com/jyoti4293/Data-Science-Portfolio/tree/main/Election%20Result%20Prediction)
 #### Objective:-
 You are hired by one of the leading news channels CNBE who wants to analyze recent elections. This survey was conducted on 1525 voters with 9 variables. You have to build a model, to predict which party a voter will vote for on the basis of the given information, to create an exit poll that will help in predicting overall win and seats covered by a particular party.
 
