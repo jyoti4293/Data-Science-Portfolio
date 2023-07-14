@@ -1,7 +1,6 @@
 # Data-Science-Portfolio
 
-### Election Result Prediction Project
-[Source Code](https://github.com/jyoti4293/Data-Science-Portfolio/tree/main/Election%20Result%20Prediction)
+* ### Election Result Prediction Project [Source Code](https://github.com/jyoti4293/Data-Science-Portfolio/tree/main/Election%20Result%20Prediction)
 #### Objective:-
 You are hired by one of the leading news channels CNBE who wants to analyze recent elections. This survey was conducted on 1525 voters with 9 variables. You have to build a model, to predict which party a voter will vote for on the basis of the given information, to create an exit poll that will help in predicting overall win and seats covered by a particular party.
 
@@ -17,4 +16,6 @@ You are hired by one of the leading news channels CNBE who wants to analyze rece
 - 1.6 Model Tuning, Bagging (Random Forest for Bagging), and Boosting
 - 1.7 Performance Metrics: Check the performance of Predictions on Train and Test sets using Accuracy, Confusion Matrix
 ##### Inferences:
-- 1.8 Based on these predictions, what are the insights? 
+- 1.8 Based on these predictions, what are the insights?
+
+* ### Pull Data From API [Source Code](https://github.com/jyoti4293/Data-Science-Portfolio/blob/main/Pull%20data%20from%20an%20API%20using%20requests.ipynb)
