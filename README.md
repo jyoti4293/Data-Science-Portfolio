@@ -23,7 +23,7 @@ You are hired by one of the leading news channels CNBE who wants to analyze rece
   [Source Code](https://github.com/jyoti4293/Data-Science-Portfolio/blob/main/Pull%20data%20from%20an%20API%20using%20requests.ipynb)
 
 * ## Text Analysis Project
- [Source Code]()
+ [Source Code](https://github.com/jyoti4293/Data-Science-Portfolio/tree/main/Text%20Analysis)
 #### Objective- 
 Work on the inaugural corpora from the nltk in Python
 
