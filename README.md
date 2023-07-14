@@ -7,17 +7,29 @@ You are hired by one of the leading news channels CNBE who wants to analyze rece
 
 #### Detailed Content:-
 ##### A Data Ingestion
- - 1.1 Read the dataset. Do the descriptive statistics and do the null value condition check. Write an inference on it 
- - 1.2 Perform Univariate and Bivariate Analysis. Do exploratory data analysis. Check for Outliers
+ -  Read the dataset. Do the descriptive statistics and do the null value condition check. Write an inference on it 
+ -  Perform Univariate and Bivariate Analysis. Do exploratory data analysis. Check for Outliers
 ##### B Data Preparation
- - 1.3 Encode the data (having string values) for Modelling. Is Scaling necessary here or not? Data Split: Split the data into train and test (70:30). 
+ -  Encode the data (having string values) for Modelling. Is Scaling necessary here or not? Data Split: Split the data into train and test (70:30). 
 ##### C Modeling
- - 1.4 Apply Logistic Regression
- - 1.5 Apply KNN Model and Naïve Bayes Model. Interpret the results
- - 1.6 Model Tuning, Bagging (Random Forest for Bagging), and Boosting
- - 1.7 Performance Metrics: Check the performance of Predictions on Train and Test sets using Accuracy, Confusion Matrix
+ -  Apply Logistic Regression
+ -  Apply KNN Model and Naïve Bayes Model. Interpret the results
+ -  Model Tuning, Bagging (Random Forest for Bagging), and Boosting
+ -  Performance Metrics: Check the performance of Predictions on Train and Test sets using Accuracy, Confusion Matrix
 ##### Inferences:
- - 1.8 Based on these predictions, what are the insights?
+ -  Based on these predictions, what are the insights?
 
 * ## Pull Data From API
   [Source Code](https://github.com/jyoti4293/Data-Science-Portfolio/blob/main/Pull%20data%20from%20an%20API%20using%20requests.ipynb)
+
+* ## Text Analysis Project
+ [Source Code]()
+#### Objective- 
+Work on the inaugural corpora from the nltk in Python
+
+#### Detailed Content-
+  - Find the number of characters, words, and sentences for the mentioned documents.
+  - Remove all the stopwords from all three speeches.
+  - Which word occurs the most number of times in his inaugural address for each president? Mention the top three words. (after removing the stopwords)
+  - Plot the word cloud of each of the speeches of the variable. (after removing the stopwords)
+  
